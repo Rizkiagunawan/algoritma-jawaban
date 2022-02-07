@@ -1,4 +1,5 @@
 <---JAWABAN NOMOR 1--->
+
 START
 STORE N as integer with any value
 STORE type as string with any value
@@ -16,6 +17,7 @@ end IF
 DISPLAY result
 
 <---JAWABAN NOMOR 2--->
+
 WHILE i LESS THAN N
 STORE currentValue WITH i PLUS 1
 IF (currentValue MODULUS BY 5 EQUAL 0)
@@ -27,3 +29,18 @@ SET i WITH i PLUS 1
 END WHILE
 
 <---JAWABAN NOMOR 3--->
+
+STORE "input" with any STRING
+STORE "palindrom"
+FOR "input" FROM "input" index "input" lenght -1 TO "input"
+END FOR
+
+IF "input" is equal "palindrom"
+DISPLAY "TRUE"
+ELSE
+DISPLAY "FALSE"
+END IF
+
+<---JAWABAN NOMOR 4--->
+
+H
