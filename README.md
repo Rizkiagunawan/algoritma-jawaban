@@ -43,4 +43,15 @@ END IF
 
 <---JAWABAN NOMOR 4--->
 
-H
+START
+DECLARE multiples '5' as collection on integer
+DECLARE multiples '<5' as integer with value
+
+IF grade '>68'
+    DISPLAY 'lulus'
+ELSE grade '<68'
+    DISPLAY 'tidak lulus'
+ELSE
+
+END
+
